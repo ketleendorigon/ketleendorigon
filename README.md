@@ -1,4 +1,4 @@
-# *Nice to meet you, I'm Ketleen!*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&pause=1000&color=B698FF&background=DAB7FF10&width=435&lines=Hellooo+%7C+I'm+Ketleen!)](https://git.io/typing-svg)
 
 ## *About me*
 
