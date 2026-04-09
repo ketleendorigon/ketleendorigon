@@ -1,31 +1,10 @@
 # *Nice to meet you, I'm Ketleen!*
 
-- Computer Science student |
-Technical degree in Electronics and Communication (ETEC)
-
-
----
-
 ## *About me*
 
 Right now, I’m focused on learning and growing as a developer. I have a strong foundation in logic and problem-solving, mainly because of my technical background, which taught me to think in a more practical and analytical way. Currently, I’m studying software development, with a focus on both **back-end** and **front-end**.
 
----
 
-## *Principais*
-#### ***Back-end***
-
-* Java
-* Banco de Dados
-* IntelliJ IDEA
-
----
-
-#### ***Front-end***
-
-* HTML
-* CSS
-* JavaScript
 
 ---
 
@@ -33,12 +12,7 @@ Right now, I’m focused on learning and growing as a developer. I have a strong
 ![English](https://img.shields.io/badge/English%20A3-120A28F?logo=English&logoColor=fff&style=for-the-badge)
 ![Portuguese](https://img.shields.io/badge/Portuguese%20C3-E60012?logo=Portuguese&logoColor=fff&style=for-the-badge)
 
-## *What I’m looking for*
-
-I’m looking for an internship or junior developer opportunity where I can learn in practice, grow quickly, and start my career in tech.
-
 ---
-
 ## *Social Media*
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/wxvssx)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketleendorigon/)
